@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="edicoes.css"?>
+<EDICOES xmlns="http://www.w3schools.com"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.w3schools.com edicoes.xsd">
+    <EDICAO>
+        <NUMERO>1</NUMERO>
+        <CPF_CHEFE>554826331-22</CPF_CHEFE>
+        <NOME_CHEFE>Julia Andrade</NOME_CHEFE>
+        <DATA>01/07/10</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>2</NUMERO>
+        <CPF_CHEFE>456987415-44</CPF_CHEFE>
+        <NOME_CHEFE>Roberta Gomes</NOME_CHEFE>
+        <DATA>02/03/01</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>3</NUMERO>
+        <CPF_CHEFE>782662490-13</CPF_CHEFE>
+        <NOME_CHEFE>Alberto Maia</NOME_CHEFE>
+        <DATA>03/01/03</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>4</NUMERO>
+        <CPF_CHEFE>456987415-44</CPF_CHEFE>
+        <NOME_CHEFE>Roberta Gomes</NOME_CHEFE>
+        <DATA>04/02/08</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>5</NUMERO>
+        <CPF_CHEFE>554826331-22</CPF_CHEFE>
+        <NOME_CHEFE>Julia Andrade</NOME_CHEFE>
+        <DATA>05/09/11</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>6</NUMERO>
+        <CPF_CHEFE>782662490-13</CPF_CHEFE>
+        <NOME_CHEFE>Alberto Maia</NOME_CHEFE>
+        <DATA>06/02/14</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>7</NUMERO>
+        <CPF_CHEFE>554826331-22</CPF_CHEFE>
+        <NOME_CHEFE>Julia Andrade</NOME_CHEFE>
+        <DATA>07/04/98</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>8</NUMERO>
+        <CPF_CHEFE>554826331-22</CPF_CHEFE>
+        <NOME_CHEFE>Julia Andrade</NOME_CHEFE>
+        <DATA>08/08/05</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>9</NUMERO>
+        <CPF_CHEFE>782662490-13</CPF_CHEFE>
+        <NOME_CHEFE>Alberto Maia</NOME_CHEFE>
+        <DATA>09/08/13</DATA>
+    </EDICAO>
+    <EDICAO>
+        <NUMERO>10</NUMERO>
+        <CPF_CHEFE>456987415-44</CPF_CHEFE>
+        <NOME_CHEFE>Roberta Gomes</NOME_CHEFE>
+        <DATA>10/09/13</DATA>
+    </EDICAO>
+</EDICOES>

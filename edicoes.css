@@ -1,0 +1,28 @@
+EDICOES {
+	display: table;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 80%;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.2em;
+}
+
+EDICAO {
+	display: table-row;
+}
+
+EDICAO:hover {
+	background-color: #f5f5f5;
+}
+
+NUMERO, CPF_CHEFE, NOME_CHEFE, DATA{
+	display: table-cell;
+	padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #CCC;
+}
+
+EDICAO:nth-child(even) {
+	background-color: #CCC;
+}
